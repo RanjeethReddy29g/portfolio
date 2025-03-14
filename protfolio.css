@@ -112,7 +112,7 @@ section {
 
 /* Hero Section Styles */
 .hero {
-    background-image: url("Img/Background Image.png"); /* Replace with your background image */
+    background-image: url("Background\ Image.png"); /* Replace with your background image */
     background-size: cover;
     background-position: center;
     padding: 100px 0;
